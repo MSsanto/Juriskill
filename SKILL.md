@@ -82,6 +82,8 @@ Para legislação federal, prefira a base oficial da Presidência da República 
 
 Para jurisprudência, prefira a fonte oficial do tribunal correspondente.
 
+Para o TJSP, use as páginas oficiais de jurisprudência e os sistemas oficiais indicados em `references/TJSP.md`, observando que o tribunal opera consultas em SAJ e eproc durante a transição de sistemas.
+
 ## Fluxo de trabalho
 
 1. Identifique todas as afirmações jurídicas verificáveis.
@@ -135,4 +137,4 @@ Ao elaborar ou revisar uma peça:
 
 Esta skill reduz risco de alucinação. Ela não garante correção jurídica absoluta e não substitui revisão profissional.
 
-O escopo inicial cobre legislação federal, STF, STJ e CNJ. Outros tribunais devem ser tratados como não suportados formalmente até que suas fontes e fluxos de validação sejam documentados.
+O escopo inicial cobre legislação federal, STF, STJ, CNJ e TJSP. Outros tribunais devem ser tratados como não suportados formalmente até que suas fontes e fluxos de validação sejam documentados.
