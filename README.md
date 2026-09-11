@@ -25,17 +25,24 @@ Cada referência recebe um status:
 - STF
 - STJ
 - CNJ
+- TJSP
 - Validação de citações jurídicas
 - Detecção de precedente verdadeiro usado com tese falsa
 - Detecção de referências inventadas
 - Checklist final de auditoria
+
+## TJSP
+
+O suporte inicial ao Tribunal de Justiça de São Paulo usa fontes oficiais do próprio tribunal, incluindo a página oficial de Jurisprudência e Banco de Sentenças e as consultas oficiais de jurisprudência do e-SAJ.
+
+Como o TJSP está em transição entre SAJ e eproc, a skill não deve assumir que um único sistema contém todo o universo de decisões pesquisáveis. Consulte `references/TJSP.md` antes de classificar uma referência do TJSP como não encontrada.
 
 ## Fora do escopo inicial
 
 - Parecer jurídico autônomo
 - Substituição de revisão profissional
 - Cálculo de prazos processuais
-- Suporte garantido a todos os tribunais estaduais, federais, trabalhistas e eleitorais
+- Suporte garantido a todos os demais tribunais estaduais, federais, trabalhistas e eleitorais
 - Automação de peticionamento
 
 ## Estrutura
@@ -47,7 +54,8 @@ Juriskill/
 ├── LICENSE
 ├── references/
 │   ├── SOURCE_POLICY.md
-│   └── OFFICIAL_SOURCES.md
+│   ├── OFFICIAL_SOURCES.md
+│   └── TJSP.md
 ├── checklists/
 │   ├── legislation-verification.md
 │   ├── precedent-verification.md
@@ -56,7 +64,8 @@ Juriskill/
     ├── hallucinated-case.md
     ├── real-case-false-holding.md
     ├── hallucinated-statute.md
-    └── unverifiable-citation.md
+    ├── unverifiable-citation.md
+    └── tjsp-system-transition.md
 ```
 
 ## Princípio central
