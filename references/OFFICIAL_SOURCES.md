@@ -58,6 +58,26 @@ Uso principal:
 - resoluções
 - jurisprudência administrativa do CNJ
 
+## Tribunal de Justiça do Estado de São Paulo, TJSP
+
+### Jurisprudência e Banco de Sentenças
+
+- https://www.tjsp.jus.br/Jurisprudencia
+
+### Consulta de jurisprudência do e-SAJ
+
+- https://esaj.tjsp.jus.br/cjsg/consultaCompleta.do
+
+Uso principal:
+
+- acórdãos de 2º grau
+- decisões monocráticas
+- julgados dos Colégios Recursais
+- pesquisa por ementa, inteiro teor, classe, assunto, órgão julgador, relator e datas
+- banco de sentenças e julgados de 1º grau quando disponível
+
+O TJSP opera consultas nos sistemas SAJ e eproc durante a transição tecnológica. Consulte `references/TJSP.md` antes de concluir que uma referência não existe.
+
 ## Regra de uso
 
 Para descoberta, outras fontes podem ser consultadas.
